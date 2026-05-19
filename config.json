@@ -1,0 +1,15 @@
+{
+  "theme": "dark",
+  "engine": "opensteamtool",
+  "steam_path": "C:\\Program Files (x86)\\Steam",
+  "ryuu_api_key": "",
+  "manifest_api": "Ryuu",
+  "lua_dirs": [],
+  "window_geometry": "1920x1080",
+  "auto_reload": true,
+  "check_updates": true,
+  "log_level": "info",
+  "language": "en",
+  "configured_games": [],
+  "default_lua_source": "ryuu"
+}

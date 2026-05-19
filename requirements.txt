@@ -1,0 +1,8 @@
+sv-ttk>=2.6.0
+lupa>=2.2
+requests>=2.32.0
+httpx>=0.27.0
+vdf>=3.4
+Pillow>=11.0.0
+darkdetect>=0.8.0
+pywinstyles>=1.0
